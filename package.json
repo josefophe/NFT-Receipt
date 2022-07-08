@@ -1,0 +1,65 @@
+{
+  "name": "arc3-ipfs",
+  "version": "1.1.0",
+  "description": "",
+  "main": "src/arc3-ipfs.js",
+  "scripts": {
+    "start-1": "node index.js",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "start-web": "parcel index.html",
+    "ipfs": "jsipfs daemon",
+    "bundle-bs58": "browserify node_modules/bs58/index.js -o ./js/bs58Bundle.js"
+  },
+  "dependencies": {
+    "@algonaut/algo-validation-agent": "latest",
+    "qrcode": "latest",
+    "@reach-sh/stdlib": "^0.1.6-rc.2",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "algosdk": "latest",
+    "moment": "latest",
+    "axios": "latest",
+    "express": "latest",
+    "node-base64-image": "latest",
+    "metro4": "latest",
+    "@pinata/sdk": "latest",
+    "bs58": "latest",
+    "ipfs-http-client": "latest",
+    "ipfs-core": "latest",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "styled-components": "^5.3.3",
+    "web-vitals": "^1.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "latest",
+    "parcel-bundler": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emg110/arc3-ipfs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/emg110/arc3-ipfs/issues"
+  },
+  "keywords": [],
+  "author": "MG <emg110@gmail.com>",
+  "license": "MIT",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
