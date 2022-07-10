@@ -35,4 +35,4 @@ Connecting to a wallet is one important requirements most DApp developers will h
 
 ## video link
 
-[![Algo2Airtime](http://img.youtube.com/vi/ULEdLWPDqT8/0.jpg)](http://www.youtube.com/watch?v=ULEdLWPDqT8)
+https://youtu.be/ULEdLWPDqT8
