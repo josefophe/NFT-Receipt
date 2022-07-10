@@ -25,7 +25,7 @@ This will be a dApp that will leverage the Algorand blockchain and the technolog
 
 Connecting to a wallet is one important requirements most DApp developers will have to integrate in their application when creating a DApp on the Algorand Blockchain.
 
-## My Algo Wallet Connect With Reach
+## My Algo Wallet Connect With DApp
 - connect to the My Algo Wallet
 - Checking of account information, like address and account balance
 - Using Faceut to fund account
