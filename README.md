@@ -1,7 +1,7 @@
 # NFT-Receipt
 
 ## Summary
-NFT-Receipt is a second-hand marketplace for sellers to issue their buyers a transferable minted nft receipt for products they once own or bought.
+NFT-Receipt is a second-hand marketplace for sellers to issue their buyers a transferable minted nft receipt for products they once own or bought. This is bring Degens to know about the web3 technology and the Algorand ecosystem.
 
 ## Team name
 Team Awesome
